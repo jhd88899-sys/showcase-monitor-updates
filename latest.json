@@ -1,6 +1,6 @@
 {
   "version": "0.8.3",
-  "url": "https://github.com/jhd88899-sys/showcase-monitor-updates/releases/download/v0.8.3/橱窗预警台-v0.8.3.showcase-update",
+  "url": "https://github.com/jhd88899-sys/showcase-monitor-updates/releases/download/v0.8.3/ShowcaseMonitor-update-v0.8.3.showcase-update",
   "sha256": "42859adca8ac7c373fe1d08ad8a2abd6dc743023567df9594532b2ac1a3fc129",
   "notes": "固定公开通道自动检查、下载、校验、安装并重启；不需要更新目录或手动选择更新包。"
 }
