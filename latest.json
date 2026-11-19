@@ -1,6 +1,6 @@
 {
   "version": "0.8.3",
   "url": "https://github.com/jhd88899-sys/showcase-monitor-updates/releases/download/v0.8.3/ShowcaseMonitor-update-v0.8.3.showcase-update",
-  "sha256": "e0bb3f4bcdf9d5561f08fb282295d4885719f25d5766eea47df28b7ebc943fc9",
+  "sha256": "8b3eb6e2ae90279d06f3507e45fffb45f4a5b27e71ea7c3c6a69e670bd70dd28",
   "notes": "固定公开通道自动检查、下载、校验、安装并重启；不需要更新目录或手动选择更新包。"
 }
